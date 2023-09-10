@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro-Timer",
+  "version": "1.0",
+  "action": {
+    "default_icon": {
+      "16": "/images/icon.png",
+      "24": "/images/icon.png",
+      "32": "/images/icon.png"
+    },
+    "default_title": "Pomodoro-Timer",
+    "default_popup": "/popup/popup.html"
+  }
+}
